@@ -1,8 +1,5 @@
 let description = document.createElement("p");
 description.setAttribute("id", "description");
-description.innerText =
-  "Pagination is the method of separating digital content into different pages on a website. Users can navigate between these pages by clicking below Buttons.";
-
 //----------------------------------------------------------------
 
 let container = ele("div", "class", "container");
